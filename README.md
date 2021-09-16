@@ -6,4 +6,4 @@ Add [OS] 운영체제 개요
 
 ## Computer Science
 
-### Operating System
+### [Operating System](https://github.com/4923/CS-dictionary/tree/main/computer-science/operating-system)
